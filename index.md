@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Take a seat page
 
 You can use the [editor on GitHub](https://github.com/AnghelMariaAlexandra/DSS-startUp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
